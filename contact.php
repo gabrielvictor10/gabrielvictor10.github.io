@@ -38,7 +38,7 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/EU.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/EU.jpeg" alt="Gabriel Victor Silva Vilarinho">
                     </div>
                     <div class="header__base-info">
                         <h4 class="title titl--h4">Gabriel Victor Silva Vilarinho</h4>
